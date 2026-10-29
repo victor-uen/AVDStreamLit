@@ -13,8 +13,8 @@ textColor = "#31333f"               # cor do texto
 borderColor = "#d5dae5"
 
 [theme.dark]
-primaryColor = "#c1121f"
-backgroundColor = "#0e1117"
-secondaryBackgroundColor = "#262730"
+primaryColor = "#edd0a6"
+backgroundColor = "#38352a"
+secondaryBackgroundColor = "#4a463a"
 textColor = "#fafafa"
-borderColor = "#41444e"
+borderColor = "#5c5747"
