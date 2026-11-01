@@ -14,3 +14,15 @@ Claude (Anthropic), modelo Claude Sonnet 5.5, usado pelo Claude Code com acesso 
 
 ### 2. Geração do esqueleto e etapa 6 (seletor de variáveis + slider de intervalo)
 "Monte a etapa 6: Implemente pelo menos 1 seletor de variáveis e 1 slider de intervalo no esqueleto."
+
+#### 4. Estrutura do Dashboard 2
+Enviei o texto do passo 4 do ROTEIRO.md (variáveis, métricas, widgets e rascunho) e pedi ajuda para estruturar o Dashboard 2.
+
+#### 5. Abas
+"Agora atualize o app.py para ter as abas st.tabs que separe os 2 dashboards"
+
+#### 6. Implementação do Dashboard
+Enviei o texto do passo 6 do ROTEIRO.md (widgets, depois st.metric, depois visuais com Altair e crossfilter).
+
+#### 7. Justificativa das métricas
+Enviei o texto do passo 7 e pedi: "Me envie aqui para eu colar". Depois pedi: "Escreva como se eu tivesse escrito".
